@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Data and algorithm, Aircon Engineering, and Computer Science**
 
-- ⚡ Fun fact **Did you know that Im ridin' this**
+- ⚡ Fun fact **Did you know that Im ridin' this Horse backwards?**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
