@@ -8,6 +8,10 @@
 
 - 🔭 I’m currently working on [Emeren Refrigeration & Aircon Services](https://www.facebook.com/EMERENairconditionservice)
 
+- 🎓 **I Graduated at Marian College of Baliuag 2024.**
+
+- 🏫 **I'm currently a First Year BSIT student at STI College Baliuag**
+
 - 🌱 I’m currently learning **Data and algorithm, Aircon Engineering, and Computer Science**
 
 - ⚡ Fun fact **Did you know that Im ridin' this Horse backwards?**
