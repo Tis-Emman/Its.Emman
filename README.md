@@ -10,9 +10,9 @@
 
 - 🎓 **I Graduated at Marian College of Baliuag 2024.**
 
-- 🏫 **I'm currently a First Year BSIT student at STI College Baliuag**
+- 🏫 **I'm currently a Second Year BSIT student at STI College Baliuag**
 
-- 🌱 I’m currently learning **Data and algorithm, Aircon Engineering, and Computer Science**
+- 🌱 I’m currently learning **Node Js, Express JS, Next.JS and RDBMS such as PostgreSQL and MySQL**
 
 - ⚡ Fun fact **Did you know that Im ridin' this Horse backwards?**
 
